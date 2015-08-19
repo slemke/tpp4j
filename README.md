@@ -1,5 +1,5 @@
 # tpp4j
-Text processing for java (tpp4j) is a processing pipeline that allows to manipulate and ocr images, clean text files and use NLP methods such as tokenization or part-of-speech tagging provided by the Stanford Core NLP Tools.
+Text pre processing for java (tpp4j) is a processing pipeline that allows to manipulate and ocr images, clean text files and use NLP methods such as tokenization or part-of-speech tagging provided by the Stanford Core NLP Tools.
 
 Tpp4j is an API that was created during a student project at the cologne unversity of applied sciences in collaboration with the [ZBMED - Leibniz-Informationszentrum Lebenswissenschaften](http://www.zbmed.de/). Tpp4j uses the MIT License.
 
