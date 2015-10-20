@@ -51,7 +51,6 @@ public final class ImageProcessingTask extends Task {
             if(!processDirectory.exists() && !processDirectory.mkdirs())
                 throw new ImageProcessingException("Couldn't create working directory for processed images");
 
-
             if(image.getType().equals("tiff")) {
                 getLogger().log(Level.WARNING, "Image processing for *.tiff files currently unsupported!");
                 return image;
